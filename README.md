@@ -1,24 +1,27 @@
 
 ## What is BoltzTraP_Tools?
 
-BoltzTraP_Tools is an interface written using Python 2 language.
-It allows to parse and plot BoltzTraP output DATA:
+BoltzTraP_Tools is an interface written using Python 2 language.<br>
+It allows to parse and plot BoltzTraP output DATA:<br>
+
        - **.trace**
        - **.condtens**
        - **.trace_fixdoping**
        - **.condtens_fixdoping**
 
-Numpy and Matplotlib (Pylab) Python packages are needed.
+Numpy and Matplotlib (Pylab) Python packages are needed.<br>
 
-BoltzTraP_Tools includes three folders:
+BoltzTraP_Tools includes three folders:<br>
+
        - **src**     : includes all python scripts.
        - **doc**     : includes the user guide and some tutorials.
        - **tests**   : includes the two BoltzTraP examples.
        - **scripts** : includes some scripts using BoltzTraP_Tools.
 
 ## What BoltzTraP_Tools can do?
-BoltzTraP_Tools can read all ***TRACE*** and ***CONDTENS*** output files.
-Therefore, it will be possible to plot the following quantities :
+BoltzTraP_Tools can read all ***TRACE*** and ***CONDTENS*** output files.<br>
+Therefore, it will be possible to plot the following quantities :<br>
+
        - Energy level 
        - Temperature
        - Seebeck Coiffecients
@@ -29,7 +32,9 @@ Therefore, it will be possible to plot the following quantities :
        - Hall Coefficient
        - Electronic Specific Heat
        - Pauli Magnetic
-More infos :
+
+More infos :<br>
+
       - User Guide :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/master/doc/UserGuide.pdf
       - Tutorials  :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/masterdoc/Tutorials.pdf
 
