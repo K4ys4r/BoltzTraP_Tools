@@ -30,6 +30,6 @@ Therefore, it will be possible to plot the following quantities :
        - Electronic Specific Heat
        - Pauli Magnetic
 More infos :
-       User Guide :  https://github.com/K4ys4r/BoltzTraP_Tools/doc/UserGuide.pdf
-       Tutorials  :  https://github.com/K4ys4r/BoltzTraP_Tools/doc/Tutorials.pdf
+      - User Guide :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/master/doc/UserGuide.pdf
+      - Tutorials  :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/masterdoc/Tutorials.pdf
 
