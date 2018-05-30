@@ -1,0 +1,15 @@
+WIEN                      # Format of DOS									     
+0 0 0 0.0                 # iskip (not presently used) idebug setgap shiftgap					     
+0.55475 0.0005 0.4 240.   # Fermilevel (Ry), energygrid, energy span around Fermilevel, number of electrons		     
+CALC                    # CALC (calculate expansion coeff), NOCALC read from file				     
+5                         # lpfac, number of latt-points per k-point 						     	  
+BOLTZ                     # run mode (only BOLTZ is supported)							     
+.15                       # (efcut) energy range of chemical potential						     
+800. 50.                  # Tmax, temperature grid								     
+-1.                       # energyrange of bands given individual DOS output sig_xxx and dos_xxx (xxx is band number)
+HISTO
+0 0 0 0 0                 # For scattering model undocumented
+2                         # number of 
+1E20 -1E20                #  fixed doping levels in cm-3
+
+
