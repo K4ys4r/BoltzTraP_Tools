@@ -32,5 +32,5 @@ Therefore, it will be possible to plot the following quantities :<br>
 
 More infos :<br>
 - User Guide :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/master/doc/UserGuide.pdf
-- Tutorials  :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/masterdoc/Tutorials.pdf
+- Tutorials  :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/master/doc/Tutorials.pdf
 
