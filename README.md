@@ -3,7 +3,6 @@
 
 BoltzTraP_Tools is an interface written using Python 2 language.<br>
 It allows to parse and plot BoltzTraP output DATA:<br>
-
        - **.trace**
        - **.condtens**
        - **.trace_fixdoping**
