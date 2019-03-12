@@ -20,4 +20,5 @@ yes
 800
 no
 no
+no
 EOF
