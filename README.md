@@ -2,7 +2,7 @@
 ## What is BoltzTraP_Tools?
 
 BoltzTraP_Tools is an interface written using Python 2 language.<br>
-It allows to parse and plot BoltzTraP output DATA:
+It allows to parse and plot and/or save BoltzTraP output DATA:
 - **.trace**
 - **.condtens**
 - **.trace_fixdoping**
@@ -33,4 +33,5 @@ Therefore, it will be possible to plot the following quantities :<br>
 More infos :<br>
 - User Guide :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/master/doc/UserGuide.pdf
 - Tutorials  :  https://github.com/K4ys4r/BoltzTraP_Tools/blob/master/doc/Tutorials.pdf
+- Update     :  plotted data can be saved to file. See example in : *scripts/plot_{S,Sigma,PF,}_save.sh*
 
