@@ -1,7 +1,7 @@
 
 ## What is BoltzTraP_Tools?
 
-BoltzTraP_Tools is an interface written using Python 2 language.<br>
+BoltzTraP_Tools is an interface written using Python 2 & 3 language.<br>
 It allows to parse and plot and/or save BoltzTraP output DATA:
 - **.trace**
 - **.condtens**
